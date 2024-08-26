@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "ETON",
+    "CustomerGroupId": "BD30AAA8-9D20-4428-49CB-08DCC281A5A7",
+    "TaxName": "CÔNG TY CỔ PHẦN ETON",
+    "TaxCode": "314031746",
+    "InvoicingAddress": "11 Trần Quý Khoách, Phường Tân Định, Quận 1, Thành phố Hồ Chí Minh, Việt Nam",
+    "Status": 1,
+    "Contact": "Lê Thị Bích Ngọc",
+    "PhoneContact": "869880299",
+    "EmailContact": "ngoc.le@eton.vn",
+    "BankName": "",
+    "AccountNumber": "",
+    "AccountOwner": "",
+    "BankAddress": ""
+  },
+  {
+    "Name": "GHTK",
+    "CustomerGroupId": "BD30AAA8-9D20-4428-49CB-08DCC281A5A7",
+    "TaxName": "CÔNG TY CỔ PHẦN GIAO HÀNG TIẾT KIỆM",
+    "TaxCode": "106181807",
+    "InvoicingAddress": "Tòa Nhà VTV, số 8 Phạm Hùng, Phường Mễ Trì, Quận Nam Từ Liêm, Thành Phố Hà Nội, Việt Nam",
+    "Status": 1,
+    "Contact": "",
+    "PhoneContact": "",
+    "EmailContact": "",
+    "BankName": "",
+    "AccountNumber": "",
+    "AccountOwner": "",
+    "BankAddress": ""
+  }
+]
